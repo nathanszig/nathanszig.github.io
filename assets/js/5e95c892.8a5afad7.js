@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_react_gantt=self.webpackChunkdocu_react_gantt||[]).push([[661],{1892:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});var r=a(7294),c=a(512),u=a(1944),n=a(5281),s=a(8790),l=a(6040);function o(e){return r.createElement(u.FG,{className:(0,c.Z)(n.k.wrapper.docsPages)},r.createElement(l.Z,null,(0,s.H)(e.route.routes)))}}}]);
